@@ -1,1 +1,1 @@
-This file has been changed in the master branch but not in branch1.
+Conflicts have been resolved in this file
